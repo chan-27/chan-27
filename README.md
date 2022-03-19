@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=chan-27&show_icons=true&count_private=true&show_icons=true&theme=moltack)
+
+![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-27&layout=compact&theme=moltack)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan-27&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=F2DAB3&ring=A2293F&border=D9AA92&currStreakNum=44312A&sideNums=44312A&sideLabels=A2293F&currStreakLabel=A2293F&fire=DD542C&stroke=D9AA92)](https://git.io/streak-stats)
 
 <!--
 **chan-27/chan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
